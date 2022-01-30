@@ -3,6 +3,7 @@
 **Table of Contents**
 
 * [labvision_stereo_depth_estimation](#labvision_stereo_depth_estimation)
+   * [The Project Notebook and Report](#the-project-notebook-and-report)
    * [Before Starting](#before-starting)
       * [Inspection of .pfm/.pgm Files](#inspection-of-pfmpgm-files)
       * [Solving Problems with Webp/Anaconda](#solving-problems-with-webpanaconda)
@@ -10,7 +11,6 @@
    * [Running Tensorboard](#running-tensorboard)
    * [Extra](#extra)
 
-Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 **Authors:** 
 
@@ -20,6 +20,13 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 Please view this file with a markdown editor/reader (e.g. [Typora](https://typora.io/)) for a better experience.
 
 ![fullpsmnet-outputs](plots/fullpsmnet-outputs.svg)
+
+
+
+## The Project Notebook and Report
+
+- The project notebook can be viewed directly (without Github, only HTML) [here](https://elifcansuyildiz.github.io/StereoDepthEstimation/project_report.html) and all experiments output [here](https://elifcansuyildiz.github.io/StereoDepthEstimation/all_experiments.html).
+- The project report (PDF) can be downloaded/viewed [here](https://elifcansuyildiz.github.io/StereoDepthEstimation/Lab_Vision_Report.pdf).
 
 
 
